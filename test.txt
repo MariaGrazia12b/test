@@ -1,3 +1,0 @@
-Name restaurant: Zì Maria
-Type menù: fish
-Drinks: wine, water
